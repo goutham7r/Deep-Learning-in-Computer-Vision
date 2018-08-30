@@ -1,3 +1,5 @@
+Link to course: https://www.coursera.org/learn/deep-learning-in-computer-vision
+
 Assignment 1: Image Alignment Task  
 Assignment 2: Facial Keypoints Regression  
 Assignment 3: Face Detection  
