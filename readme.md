@@ -6,4 +6,4 @@ Assignment 3: Face Detection
 Assignment 4: Face Recognition  
 Assignment 5: Generative Adversarial Networks  
   
-Course Certificate: https://www.coursera.org/account/accomplishments/verify/T8AF8EPF9PHD
+Course Certificate: https://www.coursera.org/account/accomplishments/certificate/T8AF8EPF9PHD
